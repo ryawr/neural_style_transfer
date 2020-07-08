@@ -1,4 +1,5 @@
-### Part of this code is due to the MatConvNet team and is used to load the parameters of the pretrained VGG19 model in the notebook ###
+# Used to load the parameters of the pretrained VGG19 model in the notebook
+# This is the utility code, used accordingly for the main notebook, copied from "Convolutional Neural Network"(Coursera) week-4 assignment
 
 import os
 import sys
